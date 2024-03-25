@@ -51,24 +51,24 @@ The industrial revolution of the 18th and 19th centuries served as a catalyst fo
 In England, George Lyster's work in the 19th century on the docks for grain handling illustrated the adaptability and utility of belt conveyors in handling bulk materials. His contributions, alongside those of his contemporaries, underscored the growing recognition of conveyor belts as vital components in industrial logistics and production.
 
 - **Figure 1.3**: General view of band conveyor with adjustable throw-off carriage designed for the Liverpool Docks
-  
-  ![Figure 1.3](/main/fig4.PNG)
+
+  ![Figure 1.3](fig4.jpg)
 
 The exploration and mining industries also benefited from the advent of conveyor belt technology. In Russia, Alexander Lopatine's introduction of belt conveyors to the mining sector in the mid-19th century marked a significant milestone. It demonstrated the system's capability to transport materials over varying terrains, thus broadening the scope of conveyor belt applications.
 
 The late 19th and early 20th centuries witnessed further innovations that shaped the modern conveyor belt. American inventor Thomas Robins played a pivotal role in this era, introducing key elements such as rubber belts and idlers. His work not only improved the durability and efficiency of conveyor systems but also set new standards for their design and application in industrial settings.
 
 - **Figure 1.4**: Patent of conveyor belt by Thomas Robins in 1893
-  
-  ![Figure 1.4](/main/Fig5.png)
+
+  ![Figure 1.4](fig5.jpg)
 
 - **Figure 1.5**: Robins’ stepped-ply belt 1896
-  
-  ![Figure 1.5](/main/Fig6.png)
+
+  ![Figure 1.5](fig6.jpg)
 
 - **Figure 1.6**: Stepped-ply belt on 45° troughing idlers required the use of side-guide pulleys to insure the belt alignment
-  
-  ![Figure 1.6](/main/Fig7.png)
+
+  ![Figure 1.6](fig7.jpg
 
 These developments were paralleled by the growing complexity of industrial operations, demanding more sophisticated material handling solutions. The evolution of conveyor belts from simple mechanical devices to complex systems capable of handling diverse materials across various industries illustrates this shift. Today, conveyor belts are integral to the operations of warehouses, manufacturing plants, and distribution centers, among others.
 
