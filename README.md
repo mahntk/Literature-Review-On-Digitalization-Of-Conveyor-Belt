@@ -68,7 +68,7 @@ The late 19th and early 20th centuries witnessed further innovations that shaped
 
 - **Figure 1.6**: Stepped-ply belt on 45° troughing idlers required the use of side-guide pulleys to insure the belt alignment
 
-  ![Figure 1.6](fig7.jpg
+  ![Figure 1.6](fig7.jpg)
 
 These developments were paralleled by the growing complexity of industrial operations, demanding more sophisticated material handling solutions. The evolution of conveyor belts from simple mechanical devices to complex systems capable of handling diverse materials across various industries illustrates this shift. Today, conveyor belts are integral to the operations of warehouses, manufacturing plants, and distribution centers, among others.
 
@@ -194,23 +194,23 @@ Then comes the cool part. They didn't just imagine this titan of transportation;
 
 **Figure 4.1**: 3D CAD Model of Conveyor Pulley.
 
-![Figure 4.1](Figure4_1.jpg)
+![Figure4_1.jpg](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/pro1.PNG)
 
 But how do you make sure this virtual giant can handle the pressure in the real world? You put it through the wringer with something called finite element analysis. It's essentially a stress test that tells you whether your design is the Hercules of conveyor belts or if it's going to crumble under the pressure. This software, ANSYS, is like the oracle predicting whether the design will hold up when the going gets tough.
 
 **Figure 4.2**: Load application on pulley.
 
-![Figure 4.2](Figure4_2.jpg)
+![Figure 4.2](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/pro3.PNG)
 
 After passing the virtual tests with flying colors, it was time to bring this beast to life and see how it fared under real-world conditions. It's akin to the final boss battle where the conveyor belt had to prove its mettle. And guess what? It handled the challenge like a champ, transporting coal efficiently and proving that all the hard work, calculations, and tests paid off.
 
 **Figure 4.3**: Maximum deflection 0.36029 mm.
 
-![Figure 4.3](Figure4_3.jpg)
+![Figure4.3](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/pro5.PNG)
 
 **Figure 4.4**: Max Stress on shell 9.5768 MPa.
 
-![Figure 4.4](Figure4_4.jpg)
+![Figure4.4](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/pro6.PNG)
 
 
 In essence, we're talking about the journey of creating an industrial marvel that's built to effortlessly move mountains of coal. It's a tale of engineering wizardry, where meticulous planning, rigorous testing, and a bit of digital magic come together to create a system that's not just efficient and reliable but also a testament to human ingenuity in tackling the challenges of the industrial world.
@@ -262,7 +262,7 @@ This system is particularly effective in preventing carryback, a condition where
 
  **Figure 5.1**: Dual Scraper System.
 
-![Figure 5.1](Figure5_1.jpg)
+![Figure5.1](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/Capture2.PNG)
 
 - item Brush System:
 
@@ -270,7 +270,7 @@ For materials that are sticky or difficult to remove, a brush system can be impl
 
 **Figure 5.2**: Brush System.
 
-![Figure 5.2](Figure5_2.jpg)
+![Figure5.2](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/Capture3.PNG)
 
 - item Water Spray System:
 
@@ -282,7 +282,7 @@ A rubber scraper can be used to clean the belt effectively. It's a simple yet ef
 
 **Figure 5.3**: Rubber Scraper.
 
-![Figure 5.3](Figure5_3.jpg)
+![Figure5.3](https://github.com/negiiirah/Literature-Review-On-Digitalization-Of-Conveyor-Belt/blob/382144002e761c31a4a41e437c2c472533970d3b/Capture4.PNG)
 
 
 These systems are designed to mitigate common issues such as material sticking to the belt, excessive wear, and buildup, leading to operational inefficiencies and damage. Regular maintenance and adopting these targeted solutions can significantly enhance the conveyor belt system's longevity and reliability.
